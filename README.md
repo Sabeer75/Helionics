@@ -1,5 +1,11 @@
 # Helionics
 
+![Helmet Hero]("C:\Users\Sabeer G\Documents\Helionics\logo.png")
+*Figure 1: Helionics Smart Helmet - Hero View*
+
+![Helmet Tech](helmet-hero.png)
+*Figure 2: Helionics Smart Helmet - Technical View*
+
 Helionics is a smart helmet system designed to improve rider safety by ensuring that the bike can only be started when the helmet is properly worn. This is achieved by using a force sensor and a temperature sensor, both connected to an Arduino, to detect if a person is wearing the helmet.
 
 ## How It Works
